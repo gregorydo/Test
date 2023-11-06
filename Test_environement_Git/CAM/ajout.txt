@@ -1,9 +1,3 @@
 fgbfbf
 fhfgbf
-<<<<<<< HEAD
 fghfgb
-
-TOTO
-=======
-fghfgb
->>>>>>> 70909e5edc7d87f470fe42e716b0c384633811d1
